@@ -2,7 +2,7 @@
 a list of obtained/required level 1 pokemon in pokemon go
 
 ## Quick Reference Image[logo]:
-![alt text](https://github.com/saint-lascivious/pokemon_go_list/raw/master/full_list.png)
+![alt text](https://github.com/saint-lascivious/pokemon_go_list/raw/master/full_list.png "https://github.com/saint-lascivious/pokemon_go_list/raw/master/full_list.png")
 
 ## Credit
 * List and reference image generated using [Pokemon Collection Tracker](https://pogo.host/A/PersonalPokeDexToolCurrent.html)
