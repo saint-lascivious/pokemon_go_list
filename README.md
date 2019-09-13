@@ -1,6 +1,13 @@
 # pokemon_go_list
 a list of obtained/required level 1 pokemon in pokemon go
 
+## Quick Reference Image[logo]:
+![alt text][logo]
+[logo]:https://github.com/saint-lascivious/pokemon_go_list/raw/master/full_list.png "This image will always reflect the most up to date main list."
+
+## Credit
+* List and reference image generated using [Pokemon Collection Tracker](https://pogo.host/A/PersonalPokeDexToolCurrent.html)
+
 ## Contact
 * Discord
 [SaintLascivious](https://discord.gg/9Cq4gRg)
