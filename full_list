@@ -92,7 +92,7 @@
 92	N	Gastly
 93	N	Haunter
 94	N	Gengar
-95	N	Onix
+95	Y	Onix
 96	Y	Drowzee
 97	Y	Hypno
 98	Y	Krabby
@@ -201,7 +201,7 @@
 201	N	Unown
 202	N	Wobbuffet
 203	N	Girafarig
-204	N	Pineco
+204	Y	Pineco
 205	N	Forretress
 206	N	Dunsparce
 207	Y	Gligar
@@ -238,7 +238,7 @@
 238	n/a	Smoochum
 239	n/a	Elekid
 240	n/a	Magby
-241	N	Miltank
+241	Y	Miltank
 242	N	Blissey
 243	n/a	Raikou
 244	n/a	Entei
@@ -270,7 +270,7 @@
 270	Y	Lotad
 271	N	Lombre
 272	N	Ludicolo
-273	N	Seedot
+273	Y	Seedot
 274	N	Nuzleaf
 275	N	Shiftry
 276	Y	Taillow
@@ -293,7 +293,7 @@
 293	Y	Whismur
 294	Y	Loudred
 295	Y	Exploud
-296	N	Makuhita
+296	Y	Makuhita
 297	Y	Hariyama
 298	n/a	Azurill
 299	N	Nosepass
@@ -312,7 +312,7 @@
 312	Y	Minun
 313	Y	Volbeat
 314	N	Illumise
-315	N	Roselia
+315	Y	Roselia
 316	Y	Gulpin
 317	Y	Swalot
 318	Y	Carvanha
@@ -369,7 +369,7 @@
 369	Y	Relicanth
 370	Y	Luvdisc
 371	Y	Bagon
-372	N	Shelgon
+372	Y	Shelgon
 373	Y	Salamence
 374	Y	Beldum
 375	Y	Metang
@@ -385,8 +385,8 @@
 385	n/a	Jirachi
 386	n/a	Deoxys
 387	Y	Turtwig
-388	N	Grotle
-389	N	Torterra
+388	Y	Grotle
+389	Y	Torterra
 390	Y	Chimchar
 391	Y	Monferno
 392	N	Infernape
